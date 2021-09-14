@@ -1,4 +1,4 @@
-# Positive Resampler
+# Positive Resampler using DNN
 Author: Suyong Choi (Korea University)
 
 Positive weight resampler using DNN for samples with negative sample weights. This can be useful if you are trying to use samples that have non-negative weights but need them to have positive values. Such cases arise in machine learning. 
